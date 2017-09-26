@@ -39,7 +39,12 @@ The starter files + solutions will be updated if/when the videos are updated.
 
 Thanks!
 
+---
+
 ### 01 - JavaScript Drum Kit
 
 Практика работы с похожими DOM элементами, аудио и анимацией в js
 
+### 02 - JS and CSS Clock
+
+Практика работы со временем в js, анимирование тика стрелки с помощь CSS свойств
