@@ -52,3 +52,7 @@ Thanks!
 ### 03 - CSS Variables
 
 Практика использования CSS переменных и изменение их с помощью js
+
+### 04 - Array Cardio Day 1
+
+Практика filter/map/sort/reduce
