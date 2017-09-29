@@ -56,3 +56,7 @@ Thanks!
 ### 04 - Array Cardio Day 1
 
 Практика filter/map/sort/reduce
+
+### 05 - Flex Panel Gallery
+
+Практика flexbox, по ивенту добавление и удаление класса элементу для анимации 
