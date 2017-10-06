@@ -68,3 +68,7 @@ Thanks!
 ### 07 - Array Cardio Day 2
 
 Практика some/every/find/findIndex (удаление элемента из массива slice)
+
+### 08 - Fun with HTML5 Canvas
+
+Рисование мышкой (практика canvas и mouse events)
