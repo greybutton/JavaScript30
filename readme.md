@@ -72,3 +72,7 @@ Thanks!
 ### 08 - Fun with HTML5 Canvas
 
 Рисование мышкой (практика canvas и mouse events)
+
+### 09 - Dev Tools Domination
+
+Методы console
