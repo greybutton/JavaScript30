@@ -76,3 +76,7 @@ Thanks!
 ### 09 - Dev Tools Domination
 
 Методы console
+
+### 10 - Hold Shift and Check Checkboxes
+
+Множественный выбор чекбоксов с зажатым шифтом
