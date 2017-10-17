@@ -88,3 +88,7 @@ Thanks!
 ### 12 - Key Sequence Detection
 
 Определение какая клавиша нажата
+
+#### 13 - Slide in on Scroll
+
+Показ картинок по скроллу
