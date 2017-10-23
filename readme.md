@@ -100,3 +100,7 @@ Thanks!
 ### 15 - LocalStorage
 
 Практика с формой, показ списка, LocalStorage, event delegation
+
+### 16 - Mouse Move Shadow
+
+Тень текста связана с движением мыши
