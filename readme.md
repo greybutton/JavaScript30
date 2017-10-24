@@ -104,3 +104,7 @@ Thanks!
 ### 16 - Mouse Move Shadow
 
 Тень текста связана с движением мыши
+
+### 17 - Sort Without Articles
+
+Практика array sort, регулярные выражения, вставка элементов
