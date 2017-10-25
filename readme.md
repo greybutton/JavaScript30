@@ -108,3 +108,7 @@ Thanks!
 ### 17 - Sort Without Articles
 
 Практика array sort, регулярные выражения, вставка элементов
+
+### 18 - Adding Up Times with Reduce
+
+Практика map and reduce, подсчет общего количества времени
