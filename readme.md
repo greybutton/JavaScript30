@@ -112,3 +112,7 @@ Thanks!
 ### 18 - Adding Up Times with Reduce
 
 Практика map and reduce, подсчет общего количества времени
+
+### 19 - Webcam Fun
+
+Практика canvas (эффекты для веб-камеры с помощью canvas) (локальный сервер)
