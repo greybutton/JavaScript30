@@ -136,3 +136,7 @@ Thanks!
 ### 24 - Sticky Nav
 
 Появление логотипа в фиксированном меню сайта (по умолчанию его нет, когда проскролливаешь вниз он появляется)
+
+### 25 - Event Capture, Propagation, Bubbling and Once
+
+Практика, как работает event capture and bubbling, что делает propagation и свойство once у addEventListener
