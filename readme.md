@@ -140,3 +140,7 @@ Thanks!
 ### 25 - Event Capture, Propagation, Bubbling and Once
 
 Практика, как работает event capture and bubbling, что делает propagation и свойство once у addEventListener
+
+### 26 - Stripe Follow Along Nav
+
+Эффект наведения на пункты меню, как будто наведение переходит от одного к другому
