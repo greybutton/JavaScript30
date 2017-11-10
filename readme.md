@@ -156,3 +156,7 @@ Thanks!
 ### 29 - Countdown Timer
 
 Делаем таймер
+
+### 30 - Whack A Mole
+
+Делаем игру
